@@ -48,7 +48,7 @@ const Landing = () => {
         <RWebShare
           data={{
             text: "CryptoDashboard made by Aditya using React JS.",
-            url: "",
+            url: "https://adityasakhuja18.github.io/CryptoPrice/",
             title: "CryptoTracker.",
           }}
           onClick={() => toast.info("App Shared!")}
